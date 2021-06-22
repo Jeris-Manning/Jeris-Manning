@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Jeris Manning
 #### Web Developer, Culinary Tinkerer, Goose Apologist
-![Web Developer, Culinary Tinkerer, Goose Apologist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: HTML / CSS / JS / React / Angular / Python / SQL / GraphQL / REST / Jest / Adobe CC / Git
 
